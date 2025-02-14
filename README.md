@@ -37,15 +37,15 @@ Each project contains its respective Colab notebook, which can be accessed and e
 
 ## Repository Structure
 ```
-Task_1.ipynb
-Task_2.ipynb
-Task_3.ipynb
-Task_4.ipynb
-Task_5.ipynb
-Task_6.ipynb
-Task_7.ipynb
-Task_8.ipynb
-Task_9.ipynb
+- Task_1.ipynb
+- Task_2.ipynb
+- Task_3.ipynb
+- Task_4.ipynb
+- Task_5.ipynb
+- Task_6.ipynb
+- Task_7.ipynb
+- Task_8.ipynb
+- Task_9.ipynb
 
 ```
 
