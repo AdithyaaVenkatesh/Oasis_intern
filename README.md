@@ -1,4 +1,3 @@
-# Oasis_intern
 # Oasis Infobyte Data Analytics Internship
 
 ## Overview
